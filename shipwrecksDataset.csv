@@ -1,0 +1,458 @@
+Area,Sea,ShipName,Date,Month,Year,Cause,Notes,Reason,Latitude,Longitude
+Pacific,North Pacific Sea,USS Admiral W. L. Capps,16-Jun-00,6,2000,Sunk,Sunk as target,Intentional,23.584,-159.833389
+Pacific,North Pacific Sea,Agano,15-Feb-44,2,1944,Torpedoed,Torpedoed by USS Skate,Intentional,10.183,151.7
+Pacific,North Pacific Sea,Akagi,5-Jun-42,6,1942,Others,Scuttled during the Battle of Midway,Intentional,30.5,-178.667
+Pacific,North Pacific Sea,Chuyo,4-Dec-43,12,1943,Sunk,Sunk by USS Sailfish,Intentional,32.617,143.65
+Pacific,North Pacific Sea,USS Corvina,16-Nov-43,11,1943,Torpedoed,Torpedoed by I-176,Intentional,5.083,151.167
+Pacific,North Pacific Sea,USS Gambier Bay,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Samar,Intentional,11.767,126.15
+Pacific,North Pacific Sea,USS Hammann,6-Jun-42,6,1942,Torpedoed,Torpedoed by I-168 in the Battle of Midway,Intentional,30.6,-176.567
+Pacific,North Pacific Sea,Harusame,8-Jun-44,6,1944,Sunk,Sunk by USAAF B-25 Bombers,Intentional,-0.083,132.75
+Pacific,North Pacific Sea,Hayate,11-Dec-41,12,1941,Sunk,Sunk in the Battle of Wake Island,Intentional,19.167,166.367
+Pacific,North Pacific Sea,I-28,17-May-42,5,1942,Torpedoed,Torpedoed by USS Tautog,Intentional,6.5,152
+Pacific,North Pacific Sea,I-165,27-Jun-45,6,1945,Sunk,Sunk by US Aircrafts,Intentional,15.467,153.65
+Pacific,North Pacific Sea,I-183,29-Apr-44,4,1944,Sunk,Sunk by USS Pogy,Intentional,32.117,-133.05
+Pacific,North Pacific Sea,Ikazuchi,13-Apr-44,4,1944,Torpedoed,Torpedoed by USS Harder,Intentional,10.217,143.85
+Pacific,North Pacific Sea,Katori,19-Feb-44,2,1944,Sunk,Sunk by USS Iowa,Intentional,7.75,151.333
+Pacific,North Pacific Sea,Kisaragi,11-Dec-41,12,1941,Sunk,Sunk by Grumman F4F Wildcat fighters,Intentional,18.917,166.283
+Pacific,North Pacific Sea,USS Liscome Bay,24-Nov-43,11,1943,Torpedoed,Torpedoed by I-175,Intentional,2.567,172.5
+Pacific,North Pacific Sea,USS LST-563,21-Dec-44,12,1944,Ran aground,Ran aground on Clipperton Island,Unintentional,10.3074139,-109.2349056
+Pacific,North Pacific Sea,Maikaze,17-Feb-44,2,1944,Sunk,Sunk by USS New Jersey,Intentional,7.75,151.333
+Pacific,North Pacific Sea,Matsukaze,9-Jun-44,6,1944,Torpedoed,Torpedoed by USS Swordfish,Intentional,26.983,143.217
+Pacific,North Pacific Sea,Michel,17-Oct-43,10,1943,Torpedoed,Torpedoed by USS Tarpon,Intentional,33.7,140.13333
+Pacific,North Pacific Sea,Mikuma,6-Jun-42,6,1942,Sunk,Sunk in the Battle of Midway,Intentional,29.333,173.5
+Pacific,North Pacific Sea,Naka,18-Feb-44,2,1944,Sunk,Sunk by US Aircrafts,Intentional,7.25,151.25
+Pacific,North Pacific Sea,USS Neches,23-Jan-42,1,1942,Torpedoed,Torpedoed by I-72,Intentional,21.017,-160.1
+Pacific,North Pacific Sea,USS S-26,24-Jan-42,1,1942,Others,Accidentally rammed by USS Sturdy,Unintentional,8.217,-79.35
+Pacific,North Pacific Sea,Sazanami,14-Jan-44,1,1944,Torpedoed,Torpedoed by USS Albacore,Intentional,5.25,141.25
+Pacific,North Pacific Sea,Shirakumo,16-Mar-44,3,1944,Torpedoed,Torpedoed by USS Tautog,Intentional,42.417,144.917
+Pacific,North Pacific Sea,Soryu,4-Jun-42,6,1942,Sunk,Sunk in the Battle of Midway,Intentional,30.633,-179.217
+Pacific,North Pacific Sea,Suzukaze,25-Jan-44,1,1944,Torpedoed,Torpedoed by USS Skipjack,Intentional,8.85,157.167
+Pacific,North Pacific Sea,Tatsuta Maru,8-Feb-43,2,1943,Torpedoed,Torpedoed by USS Tarpon,Intentional,34,140
+Pacific,North Pacific Sea,USS Walker,28-Dec-41,12,1941,Others,Scuttled by gunfire from Neches,Intentional,26.583,-143.817
+Pacific,North Pacific Sea,Yamakaze,25-Jun-42,6,1942,Torpedoed,Torpedoed by USS Nautilis,Intentional,34.567,140.433
+Pacific,North Pacific Sea,Yasukuni Maru,31-Jan-44,1,1944,Torpedoed,Torpedoed by USS Trigger,Intentional,9.25,147.217
+Pacific,North Pacific Sea,USS Yorktown,7-Jun-42,6,1942,Sunk,Sunk in the Battle of Midway,Intentional,30.59972,-176.56778
+Pacific,Bering Sea,I-24,11-Jun-43,6,1943,Sunk,Sunk by USS Larchmont,Intentional,53.267,174.4
+Pacific,East China Sea,Asashimo,7-Apr-45,4,1945,Sunk,Sunk by US Aircrafts,Intentional,31,128
+Pacific,East China Sea,USS Bush,6-Apr-45,4,1945,Sunk,Sunk by Kamikaze,Intentional,27.267,127.8
+Pacific,East China Sea,USS Callaghan,28-Jul-45,7,1945,Sunk,Sunk by Kamikaze,Intentional,25.717,126.917
+Pacific,East Chna Sea,USS Colhoun,6-Apr-45,4,1945,Sunk,Sunk by Kamikaze,Intentional,27.267,127.8
+Pacific,East China Sea,USS Drexler,28-May-45,5,1945,Sunk,Sunk by Kamikaze,Intentional,27.1,127.633
+Pacific,East China Sea,Hamakaze,7-Apr-45,4,1945,Sunk,Sunk by Kamikaze,Intentional,30.783,128.133
+Pacific,East China Sea,Isokaze,7-Apr-45,4,1945,Sunk,Sunk by US Aircrafts,Intentional,30.46,128.92
+Pacific,East China Sea,Kashino,4-Sep-42,9,1942,Torpedoed,Sunk by US Aircrafts,Intentional,25.75,122.7
+Pacific,East China Sea,USS Little,3-May-45,5,1945,Sunk,Sunk by Kamikaze,Intentional,26.4,126.25
+Pacific,East China Sea,USS Mannert L. Abele,12-Apr-45,4,1945,Sunk,Sunk by Kamikaze,Intentional,27.25,126.5
+Pacific,East China Sea,Miyuki,29-Jun-34,6,1934,Others,Collided with Inazuma,Unintentional,33,125.5
+Pacific,East China Sea,USS Morrison,4-May-45,5,1945,Sunk,Sunk by Kamikaze,Intentional,27.167,127.967
+Pacific,East China Sea,Unryu,19-Dec-44,12,1944,Torpedoed,Torpedoed by USS Redfish,Intentional,29.983,124.05
+Pacific,East China Sea,Urakaze,21-Nov-44,11,1944,Torpedoed,Torpedoed by USS Sealion,Intentional,26.15,121.383
+Pacific,East China Sea,Yahagi,7-Apr-45,4,1945,Sunk,Sunk by US Aircrafts,Intentional,30.783,128.133
+Pacific,East China Sea,Yamato,7-Apr-45,4,1945,Sunk,Sunk by US Aircrafts,Intentional,30.367,128.067
+Pacific,Philippine Sea,Akizuki,25-Oct-44,10,1944,Sunk,Sunk by US Aircrafts,Intentional,20.483,126.5
+Pacific,Philippine Sea,Asanagi,22-May-44,5,1944,Torpedoed,Torpedoed by USS Pollack,Intentional,28.333,138.95
+Pacific,Philippine Sea,USS Bismarck Sea,21-Feb-45,2,1945,Sunk,Sunk by Kamikaze,Intentional,24.03917,141.31361
+Pacific,Philippine Sea,Chikuma,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Samar,Intentional,11.417,126.6
+Pacific,Philippine Sea,Chitose,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Leyte Gulf,Intentional,19.333,126.333
+Pacific,Philippine Sea,Chiyoda,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Leyte Gulf,Intentional,18.61667,126.75
+Pacific,Philippine Sea,Chokai,25-Oct-44,10,1944,Others,Sunk in the Battle of Samar,Intentional,11.367,126.367
+Pacific,Philippine Sea,MV Derbyshire,10-Sep-80,9,1980,Others,Largest Uk ship lost at sea,Unintentional,25.5,130.5
+Pacific,Philippine Sea,USS Eversole,28-Oct-44,10,1944,Sunk,Sunk in the Battle of Leyte Gulf,Intentional,10.3,127.617
+Pacific,Philippine Sea,USS Extractor,24-Jan-45,1,1945,Torpedoed,Torpedoed by USS Guardfish,Intentional,15.733,135.483
+Pacific,Philippine Sea,USS Grayback,27-Feb-44,2,1944,Sunk,Sunk by Okinawa,Intentional,25.783,128.75
+Pacific,Philippine Sea,Hatsuzuki,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Cape Engano,Intentional,20.4,126.333
+Pacific,Philippine Sea,Hiyo,20-Jun-44,6,1944,Sunk,Sunk in the Battle of the Phillippine Sea,Intentional,16.333,132.533
+Pacific,Philippine Sea,USS Hoel,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Samar,Intentional,11.767,126.55
+Pacific,Philippine Sea,I-41,18-Nov-44,11,1944,Sunk,Sunk by US Forces,Intentional,12.733,130.7
+Pacific,Philippine Sea,USS Johnston,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Samar,Intentional,11.767,126.15
+Pacific,Philippine Sea,USS Mississinewa,20-Nov-44,11,1944,Sunk,Sunk by Kaiten ,Intentional,9.97895,139.6626194
+Pacific,Philippine Sea,Natori,18-Aug-44,8,1944,Torpedoed,Torpedoed by USS Hardhead,Intentional,12.483,128.817
+Pacific,Philippine Sea,Nowaki,26-Oct-44,10,1944,Sunk,Sunk by USS Owen,Intentional,13,124.9
+Pacific,Philippine Sea,USS Princeton,24-Oct-44,10,1944,Sunk,Sunk in the Battle of Leyte Gulf,Intentional,15.35,123.517
+Pacific,Philippine Sea,USS Samuel B. Roberts,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Samar,Intentional,11.667,126.333
+Pacific,Philippine Sea,Shinano,29-Nov-44,11,1944,Torpedoed,Torpedoed by USS Archer-Fish,Intentional,32,137
+Pacific,Philippine Sea,Shiratsuyu,15-Jun-44,6,1944,Others,Collided with Seiyo Maru,Unintentional,9.15,126.85
+Pacific,Philippine Sea,Shokaku,19-Jun-44,6,1944,Torpedoed,Torpedoed by USS Cavalla,Intentional,11.667,137.667
+Pacific,Philippine Sea,Suzuya,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Samar,Intentional,11.7533,126.1867
+Pacific,Philippine Sea,Taiho,19-Jun-44,6,1944,Sunk,Sunk by USS Albacore,Intentional,12.083,138.2
+Pacific,Philippine Sea,Tama,25-Oct-44,10,1944,Torpedoed,Torpedoed by USS Jallao,Intentional,21.383,127.317
+Pacific,Philippine Sea,Tatsuta,13-Mar-44,3,1944,Torpedoed,Torpedoed by USS Sand Lance,Intentional,32.867,139.2
+Pacific,Philippine Sea,USS Tullibee,26-Mar-44,3,1944,Sunk,Sunk by own torpedo,Unintentional,9.5,134.75
+Pacific,Philippine Sea,USS Underhill,24-Jul-45,7,1945,Sunk,Sunk by Kaiten ,Intentional,19.33333,126.7
+Pacific,Philippine Sea,Yubari,28-Apr-44,4,1944,Sunk,Sunk by USS Bluegill,Intentional,5.63333,131.75
+Pacific,Philippine Sea,Zuiho,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Cape Engano,Intentional,19.333,125.25
+Pacific,Philippine Sea,Zuikaku,25-Oct-44,10,1944,Sunk,Sunk in the Battle of Leyte Gulf,Intentional,19.333,125.85
+Pacific,Sea of Okhotsk,Dalniy Vostok,1-Apr-15,4,2015,Sunk,Foundered and sank due to overload,Unintentional,56.4833,150.4167
+Pacific,Sea of Okhotsk,USS Herring,1-Jun-44,6,1944,Sunk,Sunk by Japanese Shore Batteries,Intentional,48,153
+Pacific,Sea of Okhotsk,Naniwa,26-Jun-12,6,1912,Ran aground,Ran aground off Urup,Unintentional,46.5,150.167
+Pacific,Sea of Okhotsk,Usugumo,5-Jul-44,7,1944,Torpedoed,Torpedoed by USS Skate,Intentional,47.717,147.917
+Pacific,South China Sea,Akikaze,3-Nov-44,11,1944,Sunk,Sunk by USS Pintado,Intentional,16.8,117.283
+Pacific,South China Sea,Antelope of Boston,6-Aug-1858,8,1858,Ran aground,Ran aground on Paracel Islands,Unintentional,17,112
+Pacific,South China Sea,Aotaka,26-Sep-44,9,1944,Sunk,Sunk by USS Pargo,Intentional,7,116
+Pacific,South China Sea,Asahi,25-May-42,5,1942,Torpedoed,Torpedoed by USS Salmon,Intentional,10,110
+Pacific,South China Sea,Asama Maru,1-Nov-44,11,1944,Torpedoed,Torpedoes by USS Atule,Intentional,20.2833,117.633
+Pacific,South China Sea,Atago,23-Oct-44,10,1944,Torpedoed,Torpedoed by USS Darter,Intentional,9.467,117.283
+Pacific,South China Sea,Hashidate,22-May-44,5,1944,Torpedoed,Torpedoed by USS Picuda,Intentional,21.133,117.333
+Pacific,South China Sea,I-29,26-Jul-44,7,1944,Sunk,Sunk by USS Sawfish,Intentional,20.1,121.55
+Pacific,South China Sea,HNLMS K XVII,21-Dec-41,12,1941,Others,Strunk a mine north of Tioman Island,Unintentional,3.167,104.2
+Pacific,South China Sea,Kishinami,4-Dec-44,12,1944,Torpedoed,Torpedoed by USS Flasher,Intentional,13.2,116.617
+Pacific,South China Sea,USS Lagarto,4-May-45,5,1945,Sunk,Sunk by Hatsutaka,Intentional,7.917,102
+Pacific,South China Sea,Maya,23-Oct-44,10,1944,Torpedoed,Torpedoed by USS Dace,Intentional,9.45,117.383
+Pacific,South China Sea,Montevideo Maru,1-Jul-42,7,1942,Torpedoed,Torpedoed by USS Sturgeon,Intentional,18.617,119.483
+Pacific,South China Sea,HNLMS O 19,10-Jul-45,7,1945,Ran aground,Ran aground on reef and was scuttled,Unintentional,8.667,111.667
+Pacific,South China Sea,Oi,19-Jul-44,7,1944,Torpedoed,Torpedoed by USS Flasher,Intentional,13.2,114.867
+Pacific,South China Sea,HMS Pelorus,25-Dec-1844,12,1844,Others,Struck a shoal off Borneo,Unintentional,8.14167,115.5
+Pacific,South China Sea,HMS Prince of Wales,10-Dec-41,12,1941,Sunk,Sunk by Japanese Bombers,Intentional,3.567,104.433
+Pacific,South China Sea,HMS Repulse,10-Dec-41,12,1941,Sunk,Sunk by Japanese Bombers,Intentional,3.567,104.433
+Pacific,South China Sea,Shigure,24-Jan-45,1,1945,Torpedoed,Torpedoed by USS Blackfin,Intentional,6,103.8
+Pacific,South China Sea,Shikinami,12-Sep-44,9,1944,Torpedoed,Torpedoed by USS Growler,Intentional,18.267,114.667
+Pacific,South China Sea,Shimotsuki,25-Nov-44,11,1944,Torpedoed,Torpedoed by USS Cavalla,Intentional,2.35,107.333
+Pacific,South China Sea,Shirataka,31-Aug-44,8,1944,Torpedoed,Topedoed by USS Sealion,Intentional,21.083,121.433
+Pacific,South China Sea,Tamanami,7-Jul-44,7,1944,Torpedoed,Torpedoed by USS Mingo,Intentional,13.917,118.5
+Pacific,South China Sea,Tek Sing,6-Feb-1822,2,1822,Ran aground,Ran aground on Gasper Strait,Unintentional,-2.415075,107.0694917
+Pacific,South China Sea,Ural Maru,27-Sep-44,9,1944,Torpedoed,Torpedoed by USS Flasher,Intentional,15.667,117.3
+Pacific,Yellow Sea,Atago,6-Nov-04,11,1904,Ran aground,Ran aground off Lushunkou,Unintentional,38.4,120.917
+Pacific,Yellow Sea,SS Gyoku Maru,18-Sep-44,9,1944,Sunk,Sunk by USS Thresher,Intentional,35.033,124.4
+Pacific,Yellow Sea,Hanazuki,3-Feb-48,2,1948,Sunk,Sunk as target,Intentional,35.5,122.817
+Pacific,Yellow Sea,Hatsuse,15-May-04,5,1904,Others,Struck a mine off Lushunkou,Unintentional,38.617,121.333
+Pacific,Yellow Sea,Jingyuan,17-Sep-1894,9,1894,Sunk,Sunk in the Battle of Yalu River,Intentional,39.21389,123.12639
+Pacific,Yellow Sea,HMS Poseidon,9-Jun-31,6,1931,Sunk,Collided with SS Yuta,Unintentional,37.833,122.233
+Pacific,Yellow Sea,Seisho Maru,18-Nov-44,11,1944,Sunk,Sunk by USS Sunfish,Intentional,33.6,124.3
+Pacific,Yellow Sea,Takasago,13-Dec-04,12,1904,Others,Struck a mine off Lushunkou,Unintentional,38.167,121.25
+Pacific,Yellow Sea,Yoshino,15-May-04,5,1904,Sunk,Sunk in a collision,Unintentional,38.117,122.55
+Pacific,Yellow Sea,Zhiyuan,17-Sep-1894,9,1894,Sunk,Sunk in the Battle of Yalu River,Intentional,39.21389,123.12639
+Pacific,South Pacific,Amaranth,30-Aug-13,8,1913,Others,Wrecked at Jarvis Island,Unintentional,-0.367,-160.017
+Pacific,South Pacific,Arashio,4-Mar-43,3,1943,Sunk,Sunk in the Battle of Bismarck Sea,Intentional,-7.25,148.5
+Pacific,South Pacific,Asagiri,28-Aug-42,8,1942,Sunk,Sunk by US Aircrafts,Intentional,-8,160.167
+Pacific,South Pacific,Essex,20-Nov-1820,11,1820,Sunk,Sunk by a Sperm whale,Unintentional,-0.683,-118
+Pacific,South Pacific,USS Hornet,27-Oct-42,10,1942,Sunk,Sunk in the Battle of Santa Cruz Islands,Intentional,-8.63972,166.70944
+Pacific,South Pacific,Mutsuki,25-Aug-42,8,1942,Sunk,Sunk by US Aircrafts,Intentional,-7.783,160.217
+Pacific,South Pacific,USS Navajo,12-Sep-43,9,1943,Torpedoed,Torpedoed by I-39,Intentional,-14.97639,169.29917
+Pacific,South Pacific,USS O'Brien,19-Oct-42,10,1942,Torpedoed,Torpedoed by I-19,Intentional,-13.5,-171.3
+Pacific,South Pacific,Oshio,20-Feb-43,2,1943,Torpedoed,Toprpedoed by USS Albacore,Intentional,-0.833,146.1
+Pacific,South Pacific,USS Sculpin,19-Nov-42,11,1942,Others,Scuttled while under Japanese attack,Intentional,0,152.833
+Pacific,South Pacific,Tuaikaepau,6-Jul-62,7,1962,Ran aground,Ran aground on South Minerva Reef,Intentional,-23.92194,-179.09278
+Pacific,Bismarck Sea,Shimakaze,12-Jan-43,1,1943,Torpedoed,Torpedoed by USS Guardfish,Intentional,-2.85,149.717
+Pacific,Chilean Sea,HMS Glamorgan,11-Apr-05,4,2005,Sunk,Sunk under tow,Intentional,-35.96667,-77.36667
+Pacific,Chilean Sea,USS La Moure County,1-Jul-01,7,2001,Sunk,Sunk as target,Intentional,-32.81889,-74.28583
+Pacific,Coral Sea,USS Aludra,23-Jun-43,6,1943,Torpedoed,Torpedoed by RO-103,Intentional,-11.583,162.133
+Pacific,Coral Sea,USS Deimos,23-Jun-43,6,1943,Others,Torpedoed and scuttled off Solomon Islands,Intentional,-11.433,162.017
+Pacific,Coral Sea,I-17,19-Aug-43,8,1943,Sunk,Sunk by US Aircrafts,Intentional,-23.433,166.833
+Pacific,Coral Sea,USS Lexington,8-May-42,5,1942,Sunk,Sunk in the Battle of the Coral Sea,Intentional,-15.19917,155.45639
+Pacific,Coral Sea,Shoho,6-May-42,5,1942,Sunk,Sunk in the Battle of the Coral Sea,Unintentional,-16.1206028,151.9130611
+Pacific,Coral Sea,USS Wasp,15-Sep-42,9,1942,Torpedoed,Torpedoed by I-19,Intentional,-12.41611,164.13333
+Pacific,Coral Sea,USS William H. Standley,23-Jun-05,6,2005,Sunk,Sunk as target,Intentional,-24.783,155.8
+Pacific,Coral Sea,USS Elliot,22-Jun-05,6,2005,Sunk,Sunk as target,Intentional,-24.717,155.833
+Pacific,Solomon Sea,Aiyo Maru,3-Mar-43,3,1943,Sunk,Sunk in the Battle of Bismarck Sea,Intentional,-7.25,148.5
+Pacific,Solomon Sea,Asashio,3-Mar-43,3,1943,Sunk,Sunk in the Battle of Bismarck Sea,Intentional,-7.25,148.25
+Pacific,Solomon Sea,Kembu Maru,3-Mar-43,3,1943,Sunk,Sunk in the Battle of Bismarck Sea,Intentional,-7.25,148.5
+Pacific,Solomon Sea,Kinugasa,13-Nov-42,11,1942,Sunk,Sunk by US Aircrafts,Intentional,-8.75,157
+Pacific,Solomon Sea,Okinoshima,12-May-42,5,1942,Sunk,Torpedoed and sunk under tow,Unintentional,-5.1,153.8
+Pacific,Solomon Sea,Oigawa Maru,3-Mar-43,3,1943,Sunk,Sunk by motor torpedo boats,Intentional,-6.967,148.267
+Pacific,Solomon Sea,Sendai,3-Nov-43,11,1943,Sunk,Sunk in the Battle of Empress Augusta Bay,Intentional,-6.167,154.333
+Pacific,Solomon Sea,Shirayuki,3-Mar-43,3,1943,Sunk,Sunk by Allied Aircraft,Intentional,-7.25,148.5
+Pacific,Solomon Sea,SS Sin-ai Maru,3-Mar-43,3,1943,Sunk,Sunk in the Battle of Bismarck Sea,Intentional,-7.25,148.5
+Pacific,Solomon Sea,SS Taimei Maru,3-Mar-43,3,1943,Sunk,Sunk in the Battle of Bismarck Sea,Intentional,-7.25,148.5
+Pacific,Tasman Sea,SS Elingamite,9-Nov-02,11,1902,Ran aground,Ran aground on West Island,Unintentional,-34.186047,172.03159
+Pacific,Tasman Sea,SS Iron Chieftain,3-Jun-42,6,1942,Torpedoed,Torpedoed by I-24,Intentional,-33.931533,151.766267
+Atlantic,Baltic Sea,Aura II,1/13/40,1,1940,Sunk,Sunk by its own depth charge,Unintentional,60.383,19.167
+Atlantic,Baltic Sea,SS Cap Arcona ,5/3/45,5,1945,Sunk,Bombed by RAF Typhoons,Intentional,54.065,10.84083
+Atlantic,Baltic Sea,MS Estonia,9/28/94,9,1994,Sunk,Sank during a storm,Unintentional,59.383,21.7
+Atlantic,Baltic Sea,Goya,4/16/45,4,1945,Torpedoed,Torpedoed by L-3,Intentional,55.2,18.3
+Atlantic,Baltic Sea,Graf Zeppelin,8/16/47,8,1947,Sunk,Sunk as a target north of Poland.,Intentional,55.5175,18.28583
+Atlantic,Baltic Sea,Ilmarinen,9/13/41,9,1941,Sunk,Sunk by mines.,Intentional,59.45,21.083
+Atlantic,Baltic Sea,MS Jan Heweliusz,1/14/93,1,1993,Sunk,Capsized in hurricane-force winds off Cape Arkona,Unintentional,54.6,14.217
+Atlantic,Baltic Sea,Pallada,10/11/14,10,1914,Torpedoed,Torpedoed by SM U-26.,Intentional,59.6083,22.8167
+Atlantic,Baltic Sea,SMS Prinz Adalbert,10/23/15,10,1915,Torpedoed,Torpedoed by HMS E8 ,Intentional,56.55,20.3
+Atlantic,Baltic Sea,U-7 ,2/18/44,2,1944,Sunk,Sank west of Baltiysk,Unintentional,54.86667,19.48556
+Atlantic,Baltic Sea,U-416,12/12/44,12,1944,Others,Collided with M 203 ,Unintentional,54.967,19.55
+Atlantic,Baltic Sea,U-583,11/15/41,11,1941,Others,Collided with U-153 ,Unintentional,55.383,17.083
+Atlantic,Baltic Sea,U-649,2/24/43,2,1943,Sunk,Sank in a collision with U-232,Intentional,55.25,17.25
+Atlantic,Baltic Sea,U-676,2/12/45,2,1945,Sunk,Sunk by mine,Intentional,59.5,23
+Atlantic,Baltic Sea,U-3519,3/2/45,3,1945,Sunk,Sunk by a mine ,Intentional,54.183,12.083
+Atlantic,Baltic Sea,HMS Verulam ,9/4/19,9,1919,Sunk,Struck a mine off Seiskari ,Intentional,60.017,28.367
+Atlantic,Baltic Sea,HMS Vittoria ,8/31/19,8,1919,Torpedoed,Torpedoed by the Pantera off Seiskari ,Intentional,60.083,28.383
+Atlantic,Baltic Sea,SMS Wacht,9/4/01,9,1901,Others,Collided with SMS Sachsen ,Intentional,54.6833,13.5167
+Atlantic,Baltic Sea,ORP Wicher,9/3/39,9,1939,Sunk,Sunk by German bombers. ,Intentional,54.667,18.533
+Atlantic,Baltic Sea,MV Wilhelm Gustloff,1/30/45,1,1945,Torpedoed,Torpedoed by Soviet submarine S-13 ,Intentional,55.0729,17.4213
+Atlantic,Bay of Biscay,U-621,8/18/44,8,1944,Sunk,Sunk off La Rochelle,Intentional,45.867,-2.6
+Atlantic,Bay of Biscay,U-1222,7/11/44,7,1944,Sunk,Sunk by a British aircraft.,Intentional,46.517,-5.483
+Atlantic,Black Sea,Armenia ,11/7/41,11,1941,Sunk,Sunk by German aircraft,Intentional,44.25,34.283
+Atlantic,Black Sea,Russian hospital ship Portugal,3/30/16,3,1916,Torpedoed,Torpedoed by SM U-33 ,Intentional,42.01,41.19
+Atlantic,Black Sea,Struma,2/24/42,2,1942,Torpedoed,Torpedoed by Shch-213 ,Intentional,41.383,29.217
+Atlantic,Caribbean Sea,SS British Consul,8/19/42,8,1942,Torpedoed,Torpedoed by U-564,Intentional,11.967,-62.633
+Atlantic,Caribbean Sea,MV C.O. Stillman,6/4/42,6,1942,Torpedoed,Torpedoed by U-68,Intentional,17.5,-68.333
+Atlantic,Caribbean Sea,USS Dorado,10/12/43,10,1943,Sunk,Sunk north of Panama.,Unintentional,12.35,-78.833
+Atlantic,Caribbean Sea,SS Empire Amethyst,4/13/42,4,1942,Torpedoed,Torpedoed by U-154 ,Intentional,17.667,-74.833
+Atlantic,Caribbean Sea,SS Empire Buffalo,5/6/42,5,1942,Torpedoed,Torpedoed by U-125 ,Intentional,19.233,-82.567
+Atlantic,Caribbean Sea,SS Empire Cloud,8/21/42,8,1942,Torpedoed,Torpedoed by U-564 ,Intentional,10.9,-62.167
+Atlantic,Caribbean Sea,SS Empire Cromwell,11/28/42,11,1942,Torpedoed,Torpedoed by U-508 ,Intentional,9,-58.5
+Atlantic,Caribbean Sea,SS Empire Explorer,7/9/42,7,1942,Torpedoed,Torpedoed by U-575,Intentional,11.667,-60.917
+Atlantic,Caribbean Sea,SS Faja de Oro,5/21/42,5,1942,Torpedoed,Torpedoed by U-106.,Intentional,23.5,-84.4
+Atlantic,Caribbean Sea,SS Melville E. Stone,11/24/43,11,1943,Sunk,Sunk by U-516 ,Intentional,10.483,-80.333
+Atlantic,Caribbean Sea,SS Norlantic,5/13/42,5,1942,Sunk,Sunk by U-69 ,Intentional,14.033,-83.217
+Atlantic,Caribbean Sea,Surcouf,2/18/42,2,1942,Sunk,"Sank, possibly due to a collision with an American freighter.",Unintentional,10.667,-79.533
+Atlantic,Caribbean Sea,USS Sylvan Arrow,1/21/19,1,1919,Torpedoed,Torpedoed by U-155 ,Intentional,12.833,-67.533
+Atlantic,Caribbean Sea,USS Texan,3/11/42,3,1942,Torpedoed,"Torpedoed off Cape San Antonio, Cuba.",Intentional,21.567,-76.467
+Atlantic,Caribbean Sea,U-94,8/28/42,8,1942,Sunk,Sunk by HMCS Oakville,Intentional,17.667,-74.5
+Atlantic,Caribbean Sea,U-153,7/13/42,7,1942,Sunk,Sunk by USS Lansdowne,Intentional,9.767,-81.483
+Atlantic,Caribbean Sea, U-159,7/28/43,7,1943,Sunk,Sunk by US aircraft ,Intentional,15.95,-68.5
+Atlantic,Caribbean Sea,U-359,7/26/43,7,1943,Sunk,Sunk by an American aircraft ,Intentional,18.1,-75
+Atlantic,Caribbean Sea,German submarine U-654,8/22/42,8,1942,Sunk,Sunk by a US aircraft.,Intentional,12,-79.933
+Atlantic,Gulf of Mexico,SS Alcoa Puritan ,5/6/42,5,1942,Torpedoed,Torpedoed by U-507 ,Intentional,28.583,-88.367
+Atlantic,Gulf of Mexico,SS Las Choapas,6/27/42,6,1942,Torpedoed,Torpedoed by U-129,Intentional,20.25,-96.333
+Atlantic,Gulf of Mexico,SS Tuxpam,6/27/42,6,1942,Torpedoed,Torpedoed by U-129,Intentional,20.25,-96.333
+Atlantic,English Channel,Akaroa ,9/1/17,9,1917,Torpedoed,Torpedoed by U-19,Intentional,49.35,-4.417
+Atlantic,English Channel,HMS Blackwood ,6/16/44,6,1944,Others,"Foundered under tow near Portland Bill, Dorset.",Unintentional,50.11667,-2.01833
+Atlantic,English Channel,SS Donegal,4/17/17,4,1917,Torpedoed,Torpedoed by SM UC-21.,Intentional,50.26,-1
+Atlantic,English Channel,SS Espagne ,12/25/17,12,1917,Torpedoed,Torpedoed by UC-71,Intentional,50.44167,-1.49194
+Atlantic,English Channel,SS Rye,4/7/17,4,1917,Torpedoed,Torpedoed by UB-74.,Intentional,49.95,-0.117
+Atlantic,English Channel,U-212,7/21/44,7,1944,Sunk,Sunk by HMS Curzon ,Intentional,50.45,-0.217
+Atlantic,English Channel,U-275,3/10/45,3,1945,Sunk,Sunk by a mine ,Intentional,50.6,0.067
+Atlantic,English Channel,U-327,2/27/45,2,1945,Sunk,Sunk by HMS Lauban and HMS Loch Fada,Intentional,49.767,-5.783
+Atlantic,English Channel,U-671,8/4/44,8,1944,Sunk,Sunk by HMS Stayner and HMS Wensleydale.,Intentional,50.383,0.1
+Atlantic,English Channel,U-672,7/18/44,7,1944,Others,Attack from HMS Balfour and was scuttled.,Intentional,50.05,-2.5
+Atlantic,English Channel,U-678,7/7/44,7,1944,Sunk,"Sunk by HMCSA¾Ottawa, HMCSA¾Kootenay and HMSA Statice.",Intentional,50.533,-0.383
+Atlantic,English Channel,U-988,6/29/44,6,1944,Sunk,Sunk by British forces,Intentional,49.617,-3.683
+Atlantic,English Channel,SM UB-72,5/12/18,5,1918,Torpedoed,Torpedoed by HMS D4.,Intentional,50.133,-2.683
+Atlantic,English Channel,SM UB-74,5/26/18,5,1918,Sunk,Sunk by HMS Lorna,Intentional,50.533,-2.533
+Atlantic,English Channel,SM UB-78,5/9/18,5,1918,Sunk,Sunk by TS Queen Alexandra ,Intentional,49.817,-1.5
+Atlantic,English Channel,SM UB-109,8/29/18,8,1918,Sunk,Sunk by mine north of Calais.,Intentional,51.05,1.733
+Atlantic,English Channel,HMS Wessex ,5/24/40,5,1940,Sunk,"Sunk by German dive bombers northwest of Calais, France.",Intentional,51.015,1.76389
+Atlantic,Irish Sea,U-1051,1/26/45,1,1945,Sunk,Sunk by British ships.,Intentional,53.65,-5.383
+Atlantic,Irish Sea,U-1172,1/27/45,1,1945,Sunk,Sunk by British frigates,Intentional,52.4,-5.7
+Atlantic,Labrador Sea,SS Dorchester,2/3/43,2,1943,Torpedoed,Torpedoed by U-223 ,Intentional,59.367,-48.7
+Atlantic,Labrador Sea,USCGC Escanaba,6/13/43,6,1943,Sunk,"Sunk southwest of Greenland, probably by a mine.",Intentional,60.833,-52
+Atlantic,Labrador Sea,SS Flynderborg,11/3/41,11,1941,Torpedoed,Torpedoed by U-202 ,Intentional,51.35,-51.75
+Atlantic,Mediterranean Sea,HMAS AE2,4/30/15,4,1915,Others,Attacked by Sultanhisar and scuttled ,Intentional,40.672371,28.075218
+Atlantic,Mediterranean Sea,SS Almeria Lykes,8/13/42,8,1942,Others,Attacked by German torpedo boats and scuttled ,Intentional,36.667,11.583
+Atlantic,Mediterranean Sea, Ferraindiz,9/29/36,9,1936,Sunk,Sunk by Canarias in the Battle of Cape Espartel.,Intentional,36.24639,-4.64167
+Atlantic,Mediterranean Sea,SS Amiral Magon,1/28/17,1,1917,Torpedoed,Torpedoed b U-39 ,Intentional,35.49,20.02
+Atlantic,Mediterranean Sea,RMS Arabia,11/6/16,11,1916,Torpedoed,Torpedoed by SM UB-43,Intentional,36.5,20.5
+Atlantic,Mediterranean Sea,HMS Ark Royal,11/14/41,11,1941,Torpedoed,Torpedoed by U-81 ,Intentional,36.05,-4.75
+Atlantic,Mediterranean Sea,Armando Diaz,2/25/41,2,1941,Torpedoed,Torpedoed by HMS Upright ,Intentional,34.55,11.75
+Atlantic,Mediterranean Sea,SS Athos,2/17/17,2,1917,Torpedoed,Torpedoed by U-65.,Intentional,35.3667,18.5333
+Atlantic,Mediterranean Sea,Spanish cruiser Baleares,3/6/38,3,1938,Sunk,Sunk by Lepanto in the Battle of Cape Palos.,Intentional,37.87167,0.86667
+Atlantic,Mediterranean Sea,HMS Barham,11/25/41,11,1941,Torpedoed,Torpedoed by U-331 ,Intentional,32.567,26.4
+Atlantic,Mediterranean Sea,USS Beatty,11/6/43,11,1943,Sunk,Sunk by German aircraft ,Intentional,37.167,6
+Atlantic,Mediterranean Sea,HMS Bedouin,6/15/42,6,1942,Sunk,Sunk by Italian cruisers during Operation Harpoon.,Intentional,36.2,11.63333
+Atlantic,Mediterranean Sea,HMS Blean,12/11/42,12,1942,Torpedoed,Torpedoed by U-443 ,Intentional,35.917,-1.833
+Atlantic,Mediterranean Sea,HMS Bonaventure,3/31/41,3,1941,Torpedoed,Torpedoed by the Italian submarine Ambra ,Intentional,33.33333,26.58333
+Atlantic,Mediterranean Sea,HMHS Britannic,9/21/16,9,1916,Sunk,Struck a mine off the Greek island of Kea and sank ,Intentional,37.70139,24.28389
+Atlantic,Mediterranean Sea,HMS Broke,11/8/42,11,1942,Sunk,Suffered heavy damage in Operation Terminal and later sank under tow.,Unintentional,36.833,0.667
+Atlantic,Mediterranean Sea,USS Buck,10/9/43,10,1943,Torpedoed,"Torpedoed by U-616 off Salerno, Italy.",Intentional,39.95,14.467
+Atlantic,Mediterranean Sea,HMS Cachalot,7/30/41,7,1941,Others,Rammed by the Italian torpedo boat Generale Achille Papa ,Intentional,32.817,20.183
+Atlantic,Mediterranean Sea,HMS Cairo,8/12/42,8,1942,Sunk,Sunk by Axum during Operation Pedestal.,Unintentional,37.43333,10.36667
+Atlantic,Mediterranean Sea,HMS Calcutta,6/1/41,6,1941,Sunk,Sunk by German bombers. ,Intentional,32,28
+Atlantic,Mediterranean Sea,HMS Calypso,6/12/40,6,1940,Torpedoed,Torpedoed by Bagnolini ,Intentional,34.05,24.083
+Atlantic,Mediterranean Sea,SS Cameronia,4/15/17,4,1917,Torpedoed,Torpedoed by SM U-33 ,Intentional,35.833,17.533
+Atlantic,Mediterranean Sea,SS Chesterfield,5/18/18,5,1918,Torpedoed,Torpedoed by UC-52,Intentional,36.283,15.217
+Atlantic,Mediterranean Sea,SS City of Bradford,2/22/42,2,1942,Sunk,Sunk by German aircraft ,Intentional,31.95,25.433
+Atlantic,Mediterranean Sea,Liuzzi,6/27/40,6,1940,Others,Attacked by British destroyers and scuttled ,Intentional,33.76667,27.45
+Atlantic,Mediterranean Sea,HMS Cornwallis,1/9/17,1,1917,Torpedoed,Torpedoed by U-32 ,Intentional,35.1,15.183
+Atlantic,Mediterranean Sea,Danton,3/19/17,3,1917,Torpedoed,Torpedoed by SM U-64,Intentional,38.75972,8.05833
+Atlantic,Mediterranean Sea,HMS Defender,7/11/41,7,1941,Others,Attacked by a German bomber and scuttled ,Intentional,31.75,25.517
+Atlantic,Mediterranean Sea,Delfino,3/23/43,3,1943,Others,Scuttled after a collision east of the Strait of Gibraltar.,Intentional,35.9,-4.28333
+Atlantic,Mediterranean Sea,HMS Diamond,4/27/41,4,1941,Sunk,Sunk by German aircraft ,Intentional,36.5,23.567
+Atlantic,Mediterranean Sea,SS Djemnah,7/14/18,7,1918,Torpedoed,Torpedoed by UB-105 ,Intentional,33.2,23.9167
+Atlantic,Mediterranean Sea,HMHS Dover Castle,5/26/17,5,1917,Torpedoed,Torpedoed by SM UC-67 ,Intentional,37.75,7.75
+Atlantic,Mediterranean Sea,Durbo,10/18/40,10,1940,Others,Attacked by British destroyers and scuttled,Intentional,35.9,-4.28333
+Atlantic,Mediterranean Sea,HMS Eagle,8/11/42,8,1942,Torpedoed,Torpedoed by U-73 ,Intentional,38.05,3.02
+Atlantic,Mediterranean Sea,HMS Eclipse ,10/24/43,10,1943,Others,Hit a mine ,Intentional,37.017,27.183
+Atlantic,Mediterranean Sea,SS Empire Dunstan,11/18/43,11,1943,Torpedoed,"Torpedoed by U-81 off Taranto, Italy.",Intentional,39.4,17.667
+Atlantic,Mediterranean Sea,SS Empire Eve,5/18/43,5,1943,Torpedoed,Torpedoed by U-414 ,Intentional,36.617,0.767
+Atlantic,Mediterranean Sea,MV Empire Windrush,3/30/54,3,1954,Sunk,Caught fire and sank,Unintentional,37,2.183
+Atlantic,Mediterranean Sea,SS Erinpura,5/1/43,5,1943,Sunk,Sunk by German bombers ,Intentional,32.667,19.883
+Atlantic,Mediterranean Sea,HMS Escort ,7/11/40,7,1940,Torpedoed,Torpedoed by Guglielmo Marconi and later sank under tow.,Intentional,36.10972,-3.37
+Atlantic,Mediterranean Sea,HMS Fearless,7/23/41,7,1941,Others,Attacked by Italian aircraft and scuttled ,Intentional,37.667,8.333
+Atlantic,Mediterranean Sea,USS Fechteler,5/5/44,5,1944,Torpedoed,Torpedoed by U-967.,Intentional,36.117,-2.667
+Atlantic,Mediterranean Sea,Fiume,3/29/41,3,1941,Sunk,Sunk in the Battle of Cape Matapan.,Intentional,35.35,20.95
+Atlantic,Mediterranean Sea,SS France IV,11/7/15,11,1915,Sunk,Sunk by U-38 ,Intentional,38.133,9.9
+Atlantic,Mediterranean Sea,RMS Franconia,10/4/16,10,1916,Torpedoed,Torpedoed by SM UB-47 ,Intentional,35.5525,18.43333
+Atlantic,Mediterranean Sea,HMS Galatea,12/14/41,12,1941,Torpedoed,Torpedoed by U-557,Intentional,31.283,29.217
+Atlantic,Mediterranean Sea,Gaulois,12/27/16,12,1916,Torpedoed,Torpedoed by SM UB-47 ,Intentional,36.5,23.75
+Atlantic,Mediterranean Sea,SS Ganacral Bonaparte,5/19/43,5,1943,Torpedoed,Torpedoed by HMS Sportsman,Intentional,43.0167,7.6667
+Atlantic,Mediterranean Sea,SS Gisela L M Russ,2/19/59,2,1959,Sunk,Suffered a boiler explosion and sank ,Unintentional,38.583,24.35
+Atlantic,Mediterranean Sea,HMS Grampus,6/16/40,6,1940,Sunk,Sunk by Italian torpedo boats.,Intentional,37.083,17.5
+Atlantic,Mediterranean Sea,HMS Grove,6/12/42,6,1942,Torpedoed,Torpedoed by U-77.,Intentional,32.083,25.5
+Atlantic,Mediterranean Sea,HMS Gurkha,1/17/42,1,1942,Torpedoed,Torpedoed by U-133 ,Intentional,31.833,26.25
+Atlantic,Mediterranean Sea,HMS Hasty,6/15/42,6,1942,Torpedoed,Torpedoed by S-55 and scuttled the next day.,Intentional,34.167,22
+Atlantic,Mediterranean Sea,SS Heraklion,12/8/66,12,1966,Others,"Capsized northwest of Antimilos, Greece.",Unintentional,36.867,24.133
+Atlantic,Mediterranean Sea,HMS Hermione,6/16/42,6,1942,Torpedoed,Torpedoed by U-205 ,Intentional,33.333,26
+Atlantic,Mediterranean Sea,HMS Hyperion,12/22/40,12,1940,Others,Struck a mine and was scuttled.,Intentional,37.667,11.517
+Atlantic,Mediterranean Sea,HMS Hythe,10/11/43,10,1943,Torpedoed,Torpedoed by U-371 ,Intentional,37.067,5
+Atlantic,Mediterranean Sea,HNLMS Isaac Sweers,11/13/42,11,1942,Torpedoed,Torpedoed by U-431 ,Intentional,37.383,2.2
+Atlantic,Mediterranean Sea,SS Ivernia,1/1/17,1,1917,Torpedoed,Torpedoed by SM UB-47 ,Intentional,35.7,23.317
+Atlantic,Mediterranean Sea,SS Athenienne,10/20/1806,10,1806,Ran aground,Ran aground in the Strait of Sicily,Unintentional,37.47,10.46
+Atlantic,Mediterranean Sea,HMS Jackal,5/12/42,5,1942,Others,Attacked by German bombers and scuttled,Intentional,36.5,26.5
+Atlantic,Mediterranean Sea,HMS Jaguar,3/26/42,3,1942,Torpedoed,Torpedoed by U-652 ,Intentional,31.883,26.3
+Atlantic,Mediterranean Sea,HMS Juno,5/21/41,5,1941,Sunk,Sunk by Italian aircraft ,Intentional,34.583,26.567
+Atlantic,Mediterranean Sea,HMS Kandahar,12/20/41,12,1941,Others,Struck a mine and was scuttled ,Intentional,32.95,14.31667
+Atlantic,Mediterranean Sea,HMS Kipling,5/12/42,5,1942,Sunk,Sunk by German bombers .,Intentional,32.39,26.19
+Atlantic,Mediterranean Sea,HMS Laforey,3/30/44,3,1944,Torpedoed,Torpedoed by U-233,Intentional,38.9,14.3
+Atlantic,Mediterranean Sea,Lacon Gambetta,4/27/15,4,1915,Torpedoed,Torpedoed by SM U-5 ,Intentional,39.5,18.25
+Atlantic,Mediterranean Sea,SS Letchworth,4/1/71,4,1971,Ran aground,Ran aground and sunk ,Unintentional,36.533,26.95
+Atlantic,Mediterranean Sea,SS Lesbian,1/5/17,1,1917,Sunk,Sunk by SM U-35 ,Intentional,35.8,17.1
+Atlantic,Mediterranean Sea,HMS Lightning,3/12/43,3,1943,Sunk,Sunk by German torpedo boats.,Intentional,37.883,9.833
+Atlantic,Mediterranean Sea,HMS Lively,5/11/42,5,1942,Sunk,Sunk by German dive-bombers ,Intentional,33.4,25.633
+Atlantic,Mediterranean Sea,USS Maddox,8/19/43,8,1943,Sunk,Sunk by a German dive-bomber in the Battle of Gela.,Intentional,36.867,13.933
+Atlantic,Mediterranean Sea,HMS Martin,11/10/42,11,1942,Torpedoed,Torpedoed by U-413 ,Intentional,37.883,3.95
+Atlantic,Mediterranean Sea,SS Minas,2/15/17,2,1917,Torpedoed,Torpedoed by U-39.,Intentional,36.417,18.4
+Atlantic,Mediterranean Sea,HMS Mohawk,4/16/41,4,1941,Sunk,Sunk by the Italian destroyer Tarigo ,Intentional,34.93333,11.7
+Atlantic,Mediterranean Sea,HMS Naiad,3/11/42,3,1942,Sunk,Sunk by U-565,Intentional,32.017,26.333
+Atlantic,Mediterranean Sea,USS Nauset,9/9/43,9,1943,Sunk,Sunk by German aircraft.,Intentional,40.633,14.633
+Atlantic,Mediterranean Sea,HMS Neptune,12/19/41,12,1941,Sunk,Sunk by mines,Intentional,33.25,13.5
+Atlantic,Mediterranean Sea,HMAS Nestor,6/16/42,6,1942,Others,Attacked by an Italian bomber and scuttled,Intentional,33.6,24.5
+Atlantic,Mediterranean Sea,Nereide,8/5/15,8,1915,Torpedoed,Torpedoed by SM U-5 ,Intentional,42.383,16.267
+Atlantic,Mediterranean Sea,HMHS Newfoundland,9/14/43,9,1943,Others,Attacked by German aircraft and scuttled ,Intentional,40.217,14.35
+Atlantic,Mediterranean Sea,HMS P48,12/25/42,12,1942,Sunk,Sunk by Italian torpedo boats ,Intentional,37.25,10.5
+Atlantic,Mediterranean Sea,HMAS Parramatta,11/27/41,11,1941,Torpedoed,Torpedoed by U-559.,Intentional,32.333,24.583
+Atlantic,Mediterranean Sea,Italian cruiser Partenope,3/24/18,3,1918,Torpedoed,Torpedoed by SM UC-67.,Intentional,37.883,10.167
+Atlantic,Mediterranean Sea,USS PC-558,5/9/44,5,1944,Torpedoed,Torpedoed by U-230.,Intentional,38.683,13.717
+Atlantic,Mediterranean Sea,HMS Penelope,2/18/44,2,1944,Torpedoed,"Torpedoed by U-140 west of Naples, Italy.",Intentional,40.55,13.25
+Atlantic,Mediterranean Sea,Italian cruiser Pola,3/29/41,3,1941,Sunk,Sunk in the Battle of Cape Matapan.,Intentional,35.317,20.983
+Atlantic,Mediterranean Sea,HMS Quentin,12/2/42,12,1942,Sunk,Sunk by German aircraft.,Intentional,37.533,8.533
+Atlantic,Mediterranean Sea,HMT Rohna,11/26/43,11,1943,Sunk,Sunk by German aircraft.,Intentional,37.02,5.20167
+Atlantic,Mediterranean Sea,SS Russian,12/14/16,12,1916,Torpedoed,Torpedoed by U-43,Intentional,35.5,18.867
+Atlantic,Mediterranean Sea,Saar,2/26/76,2,1976,Sunk,Sunk as a target ship ,Intentional,42.5,5.4
+Atlantic,Mediterranean Sea,HMS Sahib,4/24/43,4,1943,Others,Attacked by the Climene and scuttled ,Intentional,37.483,10.767
+Atlantic,Mediterranean Sea,SS Sant Anna,5/11/18,5,1918,Torpedoed,Torpedoed by UC-54,Intentional,37.04,11.36
+Atlantic,Mediterranean Sea,SS Santa Elisa,8/13/42,8,1942,Torpedoed,Torpedoed by Italian motor boats,Intentional,36.333,11.467
+Atlantic,Mediterranean Sea,USS Skill,9/25/43,9,1943,Torpedoed,Torpedoed by U-593.,Intentional,40.333,14.583
+Atlantic,Mediterranean Sea,HMS Southampton,1/11/41,1,1941,Others,Attacked by German dive bombers ,Intentional,34.9,18.4
+Atlantic,Mediterranean Sea,HMS Splendid,4/21/43,4,1943,Sunk,Sunk by Hermes ,Intentional,43.567,9.617
+Atlantic,Mediterranean Sea,HMS Sportsman,9/24/52,9,1952,Sunk,"Sank off Toulon, France.",Unintentional,43.017,7.667
+Atlantic,Mediterranean Sea,HMS Tempest,2/13/42,2,1942,Sunk,Sunk by the Italian destroyer Circe,Intentional,39.25,17.75
+Atlantic,Mediterranean Sea,HMS Tynedale,12/12/43,12,1943,Torpedoed,Torpedoed by U-593,Intentional,37.167,6.083
+Atlantic,Mediterranean Sea,SM U-32,5/8/18,5,1918,Sunk,Sunk by HMS Wallflower,Intentional,36.133,13.5
+Atlantic,Mediterranean Sea,U-74,5/2/42,5,1942,Sunk,Sunk by British forces,Intentional,37.533,0.167
+Atlantic,Mediterranean Sea,U-75,12/28/41,12,1941,Sunk,Sunk by HMS Kipling ,Intentional,31.833,26.667
+Atlantic,Mediterranean Sea,U-79,12/23/41,12,1941,Sunk,Sunk by HMS Hasty and HMS Hotspur.,Intentional,32.25,25.317
+Atlantic,Mediterranean Sea,U-95,11/28/41,11,1941,Torpedoed,Torpedoed by a Dutch submarine ,Intentional,36.4,-3.333
+Atlantic,Mediterranean Sea,U-259,11/15/42,11,1942,Sunk,Sunk by a British aircraft ,Intentional,37.333,3.083
+Atlantic,Mediterranean Sea,U-301,1/21/43,1,1943,Torpedoed,Torpedoed by HMS Sahib ,Intentional,41.45,7.067
+Atlantic,Mediterranean Sea,U-371,5/4/44,5,1944,Sunk,Sunk by Allied destroyers ,Intentional,37.817,5.65
+Atlantic,Mediterranean Sea,U-374,1/12/42,1,1942,Torpedoed,Torpedoed by HMS Unbeaten,Intentional,37.5,16
+Atlantic,Mediterranean Sea,U-443,2/23/43,2,1943,Sunk,Sunk by British destroyers ,Intentional,36.917,2.417
+Atlantic,Mediterranean Sea,U-557,12/16/41,12,1941,Torpedoed,Rammed by the Italian torpedo boat Orione ,Intentional,35.31,23.19
+Atlantic,Mediterranean Sea,SM UB-52,5/23/18,5,1918,Sunk,Sunk by HMS H4 ,Intentional,41.6,18.867
+Atlantic,Mediterranean Sea,SM UB-53,8/3/18,8,1918,Sunk,Sunk by mines in the Strait of Otranto.,Intentional,39.667,18.667
+Atlantic,Mediterranean Sea,SM UB-66,1/18/18,1,1918,Sunk,Sunk by HMS Campanula,Intentional,38.5,24.417
+Atlantic,Mediterranean Sea,SM UB-68,10/4/18,10,1918,Sunk,"Sunk northeast of Misrata, Libya.",Intentional,33.933,16.333
+Atlantic,Mediterranean Sea,SM UB-69,1/9/18,1,1918,Sunk,Sunk by HMS Cyclamen ,Intentional,37.5,10.633
+Atlantic,Mediterranean Sea,HMS Union,7/20/41,7,1941,Sunk,Sunk by the Italian torpedo boat Circe,Intentional,36.45639,11.70583
+Atlantic,Mediterranean Sea,SS Verona,5/11/18,5,1918,Torpedoed,Torpedoed by UC-52,Intentional,37.067,16.317
+Atlantic,Mediterranean Sea,RMS Viceroy of India,11/1/42,11,1942,Torpedoed,Torpedoed by U-407 ,Intentional,36.433,-0.4
+Atlantic,Mediterranean Sea,SS Volo,12/28/41,12,1941,Torpedoed,Torpedoed by U-75,Intentional,31.75,26.8
+Atlantic,Mediterranean Sea,Waitemata,7/14/18,7,1918,Torpedoed,Torpedoed by UB-105 ,Intentional,33.35,24.167
+Atlantic,Mediterranean Sea,HMAT Wandilla,9/10/40,9,1940,Sunk,Sunk by British aircrafy ,Intentional,33.233,23.383
+Atlantic,Mediterranean Sea,HMAS Waterhen,6/30/41,6,1941,Sunk,Sunk by German and Italian dive bombers ,Intentional,32.25,25.333
+Atlantic,Mediterranean Sea,HMS Welshman,2/1/43,2,1943,Sunk,Torpedoed by U-617 ,Intentional,32.2,24.867
+Atlantic,Mediterranean Sea,HMS Wryneck,4/27/41,4,1941,Sunk,Sunk by German aircraft ,Intentional,36.5,23.567
+Atlantic,Mediterranean Sea,Italian cruiser Zara,3/29/41,3,1941,Sunk,Sunk by British battleships in the Battle of Cape Matapan.,Intentional,35.333,20.95
+Atlantic,North Channel,HMS Zulu,9/14/42,9,1942,Sunk,Sunk by Italian aircraft ,Intentional,32,28.933
+Atlantic,North Channel,HMS Bayano ,3/11/15,3,1915,Torpedoed,Torpedoed by U-27.,Intentional,55.05058,-5.43496
+Atlantic,North Channel,SS Dettifoss,2/21/45,2,1945,Torpedoed,Torpedoed by U-1064.,Intentional,55.05,-5.483
+Atlantic,North Channel,U-680,12/28/45,12,1945,Others,Scuttled as part of Operation Deadlight.,Intentional,55.4,-6.483
+Atlantic,North Channel,U-968,11/29/45,11,1945,Others,Scuttled as part of Operation Deadlight.,Intentional,55.4,-6.367
+Atlantic,North Channel,SM UB-82,4/17/18,4,1918,Sunk,Sunk by HMS Pilot Me and HMS Young Fred.,Intentional,55.217,-5.917
+Atlantic,North Sea,HMS Amphion,8/6/14,8,1914,Others,Ran into a minefield.,Intentional,52.11,2.36
+Atlantic,North Sea,HMS Ardent,6/1/16,6,1916,Sunk,Sunk by SMS Westfalen in the Battle of Jutland.,Intentional,56.7,5.867
+Atlantic,North Sea,HMS Ariel,8/2/18,8,1918,Others,"Struck a mine east of Heligoland, Germany.",Intentional,54.167,8.067
+Atlantic,North Sea,Bourbon Dolphin,4/15/07,4,2007,Others,"Capsized off Shetland, Scotland.",Intentional,59.9305,-0.439333
+Atlantic,North Sea,HMS Coquette,3/7/16,3,1916,Others,"Hit a mine east of Clacton-on-Sea, England.",Intentional,51.75,1.5
+Atlantic,North Sea,HMS Cressy,9/22/14,9,1914,Sunk,Sunk by SM U-9 in the Action of 22 September 1914.,Intentional,52.25028,3.66889
+Atlantic,North Sea,SS Deutschland,12/6/1875,12,1875,Ran aground,Ran aground in a blizzard,Unintentional,51.5,1.37
+Atlantic,North Sea,HMS Daring,2/18/40,2,1940,Torpedoed,Torpedoed by U-23.,Intentional,58.65,-1.667
+Atlantic,North Sea,Doris,5/9/40,5,1940,Torpedoed,Torpedoed by U-9 ,Intentional,52.78933,3.81933
+Atlantic,North Sea,HMS Dunoon,4/30/40,4,1940,Others,Struck a mine ,Intentional,52.75,2.383
+Atlantic,North Sea,HMS Esk,8/31/40,8,1940,Others,Ran into a minefield,Intentional,53.44333,3.8
+Atlantic,North Sea,HMS Exmouth,1/21/40,1,1940,Torpedoed,An E-class destroyer that was torpedoed by U-22 in the Moray Firth.,Intentional,58.3,-2.417
+Atlantic,North Sea,HMS G9,9/16/17,9,1917,Others,Rammed by HMS Pasley,Intentional,61,3.333
+Atlantic,North Sea,SMS Greif,2/29/16,2,1916,Others,Attacked by SS Alcantara and scuttled.,Intentional,61.75,1.167
+Atlantic,North Sea,HMS Grenville,1/19/40,1,1940,Others,Struck a mine ,Intentional,51.65,2.283
+Atlantic,North Sea,HMS Gurkha,4/9/40,4,1940,Sunk,Destroyer that was sunk by German bombers ,Intentional,59.21667,4
+Atlantic,North Sea,MT Gustaf E. Reuter,11/27/39,11,1939,Torpedoed,Torpedoed by U-48 ,Intentional,59.633,-2.05
+Atlantic,North Sea,HMS Invincible,5/31/16,5,1916,Sunk,Sunk by SMS Latzow and SMS Derfflinger in the Battle of Jutland.,Intentional,57.04444,6.12083
+Atlantic,North Sea,HMS Itchen,7/6/17,7,1917,Torpedoed,Torpedoed by UC-44.,Intentional,58.583,-0.75
+Atlantic,North Sea,HMS Ivanhoe,9/1/40,9,1940,Others,Struck a mine and was scuttled.,Intentional,53.445,3.75667
+Atlantic,North Sea,HMS K1,11/18/17,11,1917,Others,Scuttled after a collision with HMS Blonde.,Intentional,56.33889,5.73056
+Atlantic,North Sea,Leipzig,12/16/46,12,1946,Others,Scuttled with a cargo of gas munitions.,Intentional,57.883,6.217
+Atlantic,North Sea,SS Linda ,2/11/40,2,1940,Torpedoed,Torpedoed by U-9.,Intentional,58.25,1.9
+Atlantic,North Sea,SS Narva,12/22/57,12,1957,Others,"Foundered 180 nautical miles east of Aberdeen, Scotland.",Unintentional,57.467,3
+Atlantic,North Sea,HMS Nottingham,8/19/16,8,1916,Torpedoed,Torpedoed by SM U-52 about ,Intentional,55.48167,0.19167
+Atlantic,North Sea,HNLMS O 22,11/1/40,11,1940,Others,"Lost southwest of Stavanger, Norway. The wreck was rediscovered in 1993.",Unintentional,57.917,5.517
+Atlantic,North Sea,SS Oslo,8/21/17,8,1917,Torpedoed,Torpedoed by SM U-87 ,Intentional,57.917,5.517
+Atlantic,North Sea,HMS Shark,7/6/40,7,1940,Torpedoed,Sank under tow after being bombed by German aircraft.,Intentional,58.3,5.217
+Atlantic,North Sea,HMS Spearfish,8/1/40,8,1940,Sunk,Sunk by U-34 off the Norwegian coast.,Intentional,57.833,11
+Atlantic,North Sea,HMS Starfish,1/9/40,1,1940,Others,Attacked by a German destroyer and scuttled.,Intentional,55,7.167
+Atlantic,North Sea,USS Stockton,10/23/40,10,1940,Sunk,"Beached off Fidra, Scotland, and sunk as a target.",Intentional,56.05,-0.75
+Atlantic,North Sea,HMS Sunfish,7/27/44,7,1944,Sunk,Sunk by an RAF bomber.,Intentional,54.467,7.183
+Atlantic,North Sea,USS Swasey,11/26/40,11,1940,Sunk,Sunk by a mine while under tow.,Intentional,56.483,-0.95
+Atlantic,North Sea,SS Tubantia,3/16/16,3,1916,Torpedoed,Torpedoed by SM UB-13 ,Intentional,51.817,2.833
+Atlantic,North Sea,SM U-12,3/10/15,3,1915,Sunk,Sunk by British destroyers ,Intentional,56.25,-1.933
+Atlantic,North Sea, U-15,1/30/40,1,1940,Others,Rammed by the Iltis in the Broad Fourteens.,Intentional,54.4,7.833
+Atlantic,North Sea,U-25,8/1/40,8,1940,Others,"Struck a mine north of Terschelling, Netherlands.",Intentional,54.233,5.117
+Atlantic,North Sea,U-35,11/29/39,11,1939,Others,Attacked by British destroyers and scuttled.,Intentional,60.883,2.783
+Atlantic,North Sea,U-36,12/4/39,12,1939,Torpedoed,Torpedoed by HMS Salmon near Wilhelmshaven.,Intentional,57,5.033
+Atlantic,North Sea,U-44,3/13/40,3,1940,Others,Struck a mine,Intentional,54.233,5.117
+Atlantic,North Sea,U-63,2/25/40,2,1940,Sunk,Sunk by British ships ,Intentional,58.667,-0.167
+Atlantic,North Sea,U-251,4/19/45,4,1945,Sunk,Sunk by British and Norwegian aircraft in the Kattegat.,Intentional,56.617,11.85
+Atlantic,North Sea,U-309,2/16/45,2,1945,Sunk,Sunk by HMCS Saint John in the Moray Firth.,Intentional,58.15,-2.383
+Atlantic,North Sea,U-319,7/15/44,7,1944,Sunk,"Sunk by a British aircraft southwest of Lindesnes, Norway.",Intentional,57.667,5
+Atlantic,North Sea,U-1232,3/4/46,3,1946,Sunk,Sank under tow.,Unintentional,54.183,7.4
+Atlantic,North Sea,U-1274,4/16/45,4,1945,Sunk,Sunk by HMS Viceroy,Intentional,55.6,-1.4
+Atlantic,North Sea,SM UB-4,8/15/15,8,1915,Sunk,Sunk by the Inverlyon.,Intentional,52.717,2.3
+Atlantic,North Sea,SM UB-16,5/10/18,5,1918,Torpedoed,Torpedoed by HMS E34.,Intentional,52.1,2.017
+Atlantic,North Sea,SM UB-54,3/11/18,3,1918,Sunk,Sunk by British destroyers ,Intentional,53.25,0.75
+Atlantic,North Sea,SM UB-57,8/14/18,8,1918,Sunk,Sunk by a mine.,Intentional,51.933,2.033
+Atlantic,North Sea,SM UB-63,1/28/18,1,1918,Sunk,Sunk by HMS W.S. Bailey and HMS Fort George.,Intentional,56.167,2
+Atlantic,North Sea,SM UB-75,12/10/17,12,1917,Others,"Hit a mine east of Flamborough Head, Yorkshire.",Intentional,54.083,0.167
+Atlantic,North Sea,SM UB-83,9/10/18,9,1918,Sunk,Sunk by HMS Ophelia.,Intentional,58.467,-1.833
+Atlantic,North Sea,SM UB-88,10/16/18,10,1918,Torpedoed,"Torpedoed by HMS L12 north of Skagen, Denmark.",Intentional,57.917,10.45
+Atlantic,North Sea,SM UC-30,4/21/17,4,1917,Others,Struck a mine about ,Intentional,55.817,6.2
+Atlantic,North Sea,SM UC-71,2/20/19,2,1919,Sunk,"Sank off Heligoland, Germany.",Unintentional,54.167,7.9
+Atlantic,North Sea,HMS Undine (N48),1/7/40,1,1940,Others,Attacked by German minesweepers and scuttled.,Intentional,54.09806,7.40472
+Atlantic,North Sea,SMS Vulkan,4/6/19,4,1919,Sunk,Surrendered to British forces and sank under tow.,Intentional,54.9,6.3
+Atlantic,North Sea,SMS Wiesbaden,6/1/16,6,1916,Sunk,Sunk in the Battle of Jutland.,Intentional,57.017,5.883
+Atlantic,North Sea,SS Yarmouth,10/27/08,10,1908,Sunk,"Foundered southeast of Dunwich, England.",Unintentional,52.00167,2.11667
+Atlantic,Norwegian Sea,HMS Acasta (H09),6/8/40,6,1940,Sunk,Sunk by Scharnhorst and Gneisenau.,Intentional,68.75,4.5
+Atlantic,Norwegian Sea,WBS 5 Adolf Vinnen,10/23/40,10,1940,Sunk,Sunk by British ships,Intentional,62.483,4.383
+Atlantic,Norwegian Sea,HMS Afridi (F07),5/3/40,5,1940,Sunk,Sunk by German aircraft.,Intentional,66.233,5.75
+Atlantic,Norwegian Sea,HMS Ardent (H41),6/8/40,6,1940,Sunk,Sunk by Scharnhorst and Gneisenau.,Intentional,68.75,4.5
+Atlantic,Norwegian Sea,HMS Glorious,6/8/40,6,1940,Sunk,Sunk by Scharnhorst and Gneisenau.,Intentional,68.633,3.833
+Atlantic,Norwegian Sea,HMS Glowworm (H92),4/8/40,4,1940,Sunk,Sunk by the Admiral Hipper off Norway.,Intentional,64.45,6.467
+Atlantic,Norwegian Sea,WBS 11 Hessen,5/7/65,5,1965,Sunk,Sunk due to ice damage.,Unintentional,64.667,0.5
+Atlantic,Norwegian Sea,USS Howick Hall (ID-1303),3/28/42,3,1942,Sunk,Sunk by German bombers south of Bear Island.,Intentional,72.667,20.333
+Atlantic,Norwegian Sea,HMT Juniper (T123),6/8/40,6,1940,Sunk,Sunk by Admiral Hipper,Intentional,67.333,4.167
+Atlantic,Norwegian Sea,K-278 Komsomolets,4/7/89,4,1989,Sunk,Caught fire and sank with two nuclear weapons and two nuclear reactors still on board.,Unintentional,73.72167,13.28167
+Atlantic,Norwegian Sea,HMS Kite (U87),8/21/44,8,1944,Torpedoed,Torpedoed by U-344.,Intentional,73.017,3.95
+Atlantic,Norwegian Sea,HMS Mahratta (G23),2/25/44,2,1944,Torpedoed,Torpedoed by U-990 ,Intentional,71.283,13.5
+Atlantic,Norwegian Sea,SS Orizaba,2/26/40,2,1940,Ran aground,"Ran aground north of Troms, Norway.",Unintentional,70.667,20.983
+Atlantic,Norwegian Sea,SS Prins Olav,6/9/40,6,1940,Sunk,Sunk by German bombers,Intentional,67.117,1
+Atlantic,Norwegian Sea,HMS Punjabi,5/1/42,5,1942,Sunk,Collided with HMSA¾King George V in fog.,Unintentional,66,-8
+Atlantic,Norwegian Sea,U-277,5/1/44,5,1944,Sunk,Sunk by a British aircraft ,Intentional,73.4,15.533
+Atlantic,Norwegian Sea,U-292,5/27/44,5,1944,Sunk,Sunk by a British aircraft,Intentional,62.617,0.95
+Atlantic,Norwegian Sea,U-308,6/4/43,6,1943,Torpedoed,Torpedoed by HMS Truculent ,Intentional,64.467,-3.15
+Atlantic,Norwegian Sea,U-317,6/26/44,6,1944,Sunk,Sunk by British aircraft ,Intentional,62.05,1.75
+Atlantic,Norwegian Sea,U-335,8/3/42,8,1942,Sunk,Sunk by HMS Saracen,Intentional,62.8,-0.2
+Atlantic,Norwegian Sea,U-344,8/22/44,8,1944,Sunk,Sunk by a British aircraft ,Intentional,74.9,15.433
+Atlantic,Norwegian Sea,U-347,7/17/44,7,1944,Sunk,Sunk by a British aircraft ,Intentional,68.6,8.55
+Atlantic,Norwegian Sea,U-360,4/2/44,4,1944,Sunk,Sunk by HMS Keppel ,Intentional,72.467,13.067
+Atlantic,Norwegian Sea,U-361,7/17/44,7,1944,Sunk,Sunk by a British aircraft ,Intentional,68.583,6
+Atlantic,Norwegian Sea,U-412,10/22/42,10,1942,Sunk,Sunk by a British aircraft ,Intentional,63.917,0.4
+Atlantic,Norwegian Sea,U-423,6/17/44,6,1944,Sunk,Sunk by a Norwegian aircraft,Intentional,63.1,2.083
+Atlantic,Norwegian Sea,U-476,5/25/44,5,1944,Others,Attacked by a British aircraft and scuttled by U-990,Intentional,65.133,4.883
+Atlantic,Norwegian Sea,U-477,6/3/44,6,1944,Sunk,Sunk by a Canadian aircraft ,Intentional,63.983,1.617
+Atlantic,Norwegian Sea,U-478,6/30/44,6,1944,Sunk,Sunk by Allied aircraft ,Intentional,63.45,-0.833
+Atlantic,Norwegian Sea,U-601,2/25/44,2,1944,Sunk,Sunk by a British aircraft,Intentional,70.433,12.667
+Atlantic,Norwegian Sea,U-644,4/7/43,4,1943,Torpedoed,Torpedoed by HMS Tuna,Intentional,69.633,-5.667
+Atlantic,Norwegian Sea,U-674,5/2/44,5,1944,Sunk,Sunk by a British aircraft.,Intentional,70.533,4.617
+Atlantic,Norwegian Sea,U-675,5/24/44,5,1944,Sunk,Sunk by a British aircraft.,Intentional,62.45,3.067
+Atlantic,Norwegian Sea,U-713,2/24/44,2,1944,Sunk,Sunk by HMS Keppel.,Intentional,69.45,4.883
+Atlantic,Norwegian Sea,U-715,6/13/44,6,1944,Sunk,Sunk by a Canadian aircraft.,Intentional,62.917,-2.983
+Atlantic,Norwegian Sea,U-867,9/19/44,9,1944,Sunk,Sunk by a British aircraft ,Intentional,62.25,1.833
+Atlantic,Norwegian Sea,U-973,3/6/44,3,1944,Sunk,Sunk by British aircraft,Intentional,70.667,5.8
+Atlantic,Norwegian Sea,U-989,2/14/45,2,1945,Sunk,Sunk by British ships ,Intentional,61.6,-1.583
+Atlantic,Norwegian Sea,U-990,5/25/44,5,1944,Sunk,Sunk by a British aircraft ,Intentional,65.083,7.467
+Atlantic,"Saint Helena, Ascension and Tristan da Cunha",RFA Darkdale,10/22/41,10,1941,Torpedoed,Torpedoed by U-68,Intentional,65.083,7.467

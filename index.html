@@ -1,0 +1,436 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
+ 	<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
+	<title>Not All Shipwrecks Are Caused By Moby Dick!</title>
+	<style type="text/css">
+	
+	#main{
+		margin: auto;
+		width: 95%;
+		height: 225%;
+		padding: 10px;
+		background-color: rgba(0,0,0,0.8);
+		min-width: 1200px;
+	}
+
+	body { 
+		font-family: "Open Sans";
+		color: white; 
+		font-weight: 200; 
+		background-image: url("AntiqueMap.jpg");
+		background-size: cover;
+		background-position: bottom center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		padding: 0;
+		margin: 0;
+		overflow-x: hidden;
+		min-width: 1200px;
+	}
+
+	h1 {
+		font-size: 50px;
+		text-align: center;
+		color: #deb66e;
+	}
+
+	h4 {
+		margin: 2px;
+	}
+
+	.radioButtons{
+		margin-left: 50px;
+	}
+
+	.leftdiv {
+		float:left;
+		width: 350px;
+	}
+
+	.rightdiv {
+		float:right;
+
+	}
+
+	div .map{
+		background-image: url("mapbg.jpg");
+		background-repeat: no-repeat;
+	    margin-bottom: 2px;
+	    z-index: -1000;
+	}
+
+	div .dotPlot{
+		background-image: url("brownbackground.jpg");
+		background-repeat: no-repeat;
+	    margin-top: 2px;
+	}
+
+	div .chordDiagram{
+		background-image: url("brownbackground.jpg");
+		margin-top: 2px;
+		float: left;
+	}
+
+	.point{
+		 z-index: 1000;
+	}
+
+	svg {
+		font-size: 8px;
+		border: solid black 1px;
+	}
+
+	.yaxis path, .yaxis line {
+        fill: none;
+        stroke: black;
+        stroke-width:2;   
+    }
+
+	.d3-tip {
+	  line-height: 1;
+	  font-weight: bold;
+	  padding: 12px;
+	  background: rgb(0, 0, 0);
+	  color: #fff;
+	  border-radius: 2px;
+	}
+
+	/* Creates a small triangle extender for the tooltip */
+	.d3-tip:after {
+	  box-sizing: border-box;
+	  display: inline;
+	  font-size: 10px;
+	  width: 100%;
+	  line-height: 1;
+	  color: rgb(0, 0, 0);
+	  content: "\25BC";
+	  position: absolute;
+	  text-align: center;
+	}
+
+	/* Style northward tooltips differently */
+	.d3-tip.n:after {
+	  margin: -1px 0 0 0;
+	  top: 100%;
+	  left: 0;
+	}
+
+	/* Chord Diagram */
+	.chord path {
+	  fill-opacity: .67;
+	  stroke: #000;
+	  stroke-width: .5px;
+	}
+
+	</style>
+</head>
+<body>
+
+<div id="main">
+	<div class="introduction">
+		<h1> Not All Shipwrecks Are Caused By Moby Dick!</h1>
+		<p class="mid">For a long time now, shipwrecks have fascinated the human kind. Associated with history, riches and untold stories, shipwrecks hold a certain air of mystery that has captivated everyone, the world over. But not all shipwrecks are due to unwieldy storms, unlucky albatross or enormous sperm whales. Many shipwrecks in the history, are indeed intentional acts of war!
+		</p>
+		<p class="mid">UNESCO estimates that, over 3 million shipwrecks, some thousands of years old, lie in the world’s oceans. This project aims to show a subset of these shipwrecks, the ones that call the sea beds of the Pacific and the Atlantic, as their final resting place
+		</p>
+	</div>
+	<br>
+	<div class="leftdiv">
+		<h4>Click the radio buttons to explore the shipwrecks: </h4><br>
+		• by ocean (Pacific / Atlantic) <br>
+		• by intention (Intentional / Accidental) or <br>
+		• by cause (<b style="color:#1f77b4">Sunk</b>/ <b style="color:#d62728">Ran aground</b>/ <b style="color:#ff7f0e">Torpedoed</b>/ <b style="color:#2ca02c">Others</b><sup>*</sup> ) <br>
+		
+	    <sup>*</sup> <b style="color:#2ca02c">Others</b> covers a multitude of causes like "Lost at Sea", "Attacked by whales", "Collided", "Scuttled", "Foundered", "Struck a mine" & etc
+	    <hr>
+		<h4>Explore shipwrecks by Ocean</h4><br>
+		<div id = "area">
+			<input class="radioButtons" type="radio" name="radio" id="pacific" value="pacific" onClick = "generateAreaPoints(this.id)"> Pacific<br>
+			<input class="radioButtons" type="radio" name="radio" id="atlantic" value="atlantic" onClick = "generateAreaPoints(this.id)"> Atlantic<br>
+		</div>
+		<hr>
+		<h4>Explore shipwrecks by Intention</h4><br>
+		<div id = "reason">
+			<input class="radioButtons" type="radio" name="radio" id="intentional" value="intentional" onClick = "generateReasonPoints(this.id)"> Intentional<br>
+			<input class="radioButtons" type="radio" name="radio" id="unintentional" value="unintentional" onClick = "generateReasonPoints(this.id)"> Accidental<br>
+		</div>
+		<hr>
+	  	<h4>Explore shipwrecks by Cause</h4><br>
+		<div id = "cause">
+			<input class="radioButtons" type="radio" name="radio" id="sunk" value="sunk" onClick = "generateCausePoints(this.id)"><b style="color:#1f77b4"> Sunk <span font-size="100px">•</span></b><br>
+			<input class="radioButtons" type="radio" name="radio" id="ran aground" value="ran aground" onClick = "generateCausePoints(this.id)"><b style="color:#d62728"> Ran Aground •<b><br>
+			<input class="radioButtons" type="radio" name="radio" id="torpedoed" value="torpedoed" onClick = "generateCausePoints(this.id)"><b style="color:#ff7f0e"> Torpedoed •</b><br>
+			<input class="radioButtons" type="radio" name="radio" id="others" value="others" onClick = "generateCausePoints(this.id)"><b style="color:#2ca02c"> Others •</b><br>
+		</div>
+		<hr>
+		
+		<h4 style="color:white">What we learnt</h4><br>
+		<p style="color:white">One would easily expect that the largest reason for these millions of shipwrecks is unintentional / accidental reasons, mainly due to Mother Nature. However, we found that the main reason for a majority of the shipwrecks is by intentional use of brutal force. Following the end of the World Wars, the shipwrecks were mainly accidental, while a few were intentionally sunk as target or under tow</p>
+	</div>
+
+
+	<div class="rightdiv">
+		<div id="map"></div>
+		<div id="dotPlotHorizontal" class = "dotPlot"> </div>
+	</div>
+</div>
+<script>
+
+var width = 960,
+    height = 450;
+    padding = 40;
+    scale0 = (width - 1) / 2 / Math.PI;
+
+var dotPlotHeight=200;
+	dotPlotHorizontalHeight=200;
+
+var color = d3.scale.category10();
+
+var projection = d3.geo.mercator();
+var path = d3.geo.path().projection(projection);
+var zoom = d3.behavior.zoom()
+   .translate([0, 0])
+   .scale(1)
+   .scaleExtent([1, 8])
+   .on("zoom", zoomed);
+
+/* Define the tip when we hover over the circle point */
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([-10, 0])
+  .html(function(d) {
+    return "<strong>Name of Ship:</strong> <span style='color:palegreen'>" + d.shipname + "</span> <br>" + 
+           "<strong>Sea: </strong> <span style='color:powderblue'>" + d.sea + "</span> <br>" + 
+           "<strong>Date: </strong> <span style='color:powderblue'>" + d.date + "</span> <br>" + 
+           "<strong>Cause:</strong> <span style='color:orange'>" + d.notes + "</span> <br>" +
+           "<strong>Reason:</strong> <span style='color:orange'>" + d.reason + "</span> <br>";
+  })
+
+var svg = d3.select("#map").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .attr("class", "map")
+    .call(zoom);
+
+var g = svg.append("g");
+var worldObjects;
+
+svg.call(tip);
+
+/* Load the world map */
+d3.json("world-50m.json", function(error, world) {
+	worldObjects = world;
+	
+	if (error) {console.log(error);}
+
+	var countries = topojson.feature(world, world.objects.countries).features;
+
+	countries.forEach(function (country){
+		g.append("path").attr("d", path(country))
+		.style("fill","#2f140e")
+		.style("stroke", "#662506")
+		.style("stroke-opacity", 0.3)
+		.attr("z-index", -1000);
+	});
+});
+
+//points stores an array of json objects for the whole dataset
+var points;
+/* Load the data from csv and map the data elements to points variable which is array of json objects */
+d3.csv("shipwrecksDataset.csv", function (error, data) {
+	ships = data;
+  	points = ships.map(function (ship) {
+    // Create shorter variable names
+	    return {
+	      area: ship["Area"],
+	      sea: ship["Sea"],
+	      shipname: ship["ShipName"],
+	      date: ship["Date"],
+	      year: Number(ship["Year"]),
+	      cause: ship["Cause"],
+	      notes: ship["Notes"],
+	      reason: ship["Reason"],
+	      latitude: ship["Latitude"],
+	      longitude: ship["Longitude"]
+	    };
+	})
+
+  	placePins(points);
+	getDotPlotData(points);
+	
+})
+
+/* Place points on the world map based on the latitude and longitude of the point */
+function placePins(newPoint){
+	g.selectAll("circle")
+	.data(newPoint)
+	.enter()
+	.append("circle")
+	.attr("class", "point")
+	.attr("z-index", 1000)
+	.attr("cx", function(d) {return projection([d.longitude, d.latitude])[0];})
+	.attr("cy", function(d) {return projection([d.longitude, d.latitude])[1];})
+	.attr("r", 5)
+	.attr("fill", function(d){return color(d.cause);})
+	.style("opacity", 1)
+	.style("stroke", "black")
+	.on("mouseover", function(d){
+		//Show the tip on hover
+		tip.show(d);
+		//Rescale the y-Axis for the dotPlot Chart
+		rescale(d);
+		//Set the stroke, so that the point over which we are hovering is highlighted
+		d3.select(this).style("stroke", "white").style("stroke-width", "2px");
+		//Set the same property for the corresponding point in the dotPlot Chart 
+		document.getElementById(d.shipname).setAttribute('r', "5" );
+		document.getElementById(d.shipname).setAttribute('opacity', "1" );
+		document.getElementById(d.shipname).style.stroke = "white";
+		document.getElementById(d.shipname).setAttribute("stroke-width","2px");
+	})
+    .on("mouseout", function(d){
+    	tip.hide(d),
+    	//Revert back so that the point over which we are hovering is similar to other points
+    	d3.select(this).style("stroke", "black").style("stroke-width", "1px");
+
+    	//Revert back so that the point that was highlighted resembles other points in the dot plot
+    	document.getElementById(d.shipname).setAttribute('r', "5" );
+    	document.getElementById(d.shipname).setAttribute('opacity', "0.6" );
+    	document.getElementById(d.shipname).style.stroke = "black";
+    	document.getElementById(d.shipname).setAttribute("stroke-width","1px");
+    })
+}
+
+/* Function to change the y-scale to display the year according to the year of the ship selected with offset of +/- 2 years  */
+function rescale(pivotPoint){	
+		yScale0.domain([pivotPoint.year - 2, pivotPoint.year + 2]);
+
+		svg2.select(".yaxis").transition().duration(1500).ease("sin-in-out").call(yAxis0);
+		plotHorizontalDotPlotChart("svg2", dotPlotPoints, pivotPoint.year - 2, pivotPoint.year + 2);
+}
+
+// areaPoints are filtered points array based on area
+var areaPoints;
+function generateAreaPoints(idno){
+	svg.selectAll(".point").data([]).exit().remove();
+	var newidno = "#" + idno;
+	areaPoints = points;
+	areaPoints = areaPoints.filter(function (point) {
+    	return point.area.toLowerCase() == idno.toLowerCase() ;
+  	});
+  	d3.select(newidno).on("click", placePins(areaPoints)); 
+}
+
+// variable causePoints stores filtered points array based on the cause
+var causePoints;
+/* filters the causePoints based on the button clicked  */
+function generateCausePoints(idno){
+	svg.selectAll(".point").data([]).exit().remove();
+	var newidno = "#" + idno;
+	causePoints = points;
+	causePoints = causePoints.filter(function (point) {
+    	return point.cause.toLowerCase() == idno.toLowerCase() ;
+  	}); 
+	d3.select(newidno).on("click", placePins(causePoints)); 
+}
+
+// reasonPoints are filtered points array based on intentional or unintentional
+var reasonPoints;
+/* filters the reasonPoints based on the button clicked  */
+function generateReasonPoints(idno){
+	svg.selectAll(".point").data([]).exit().remove();
+	var newidno = "#" + idno;
+	reasonPoints = points;
+	reasonPoints = reasonPoints.filter(function (point) {
+    	return point.reason.toLowerCase() == idno.toLowerCase() ;
+  	}); 
+	d3.select(newidno).on("click", placePins(reasonPoints)); 
+}
+
+
+var dotPlotPoints = [];
+
+/* assign variable dotPlotPoints a Plot for each year with the shipwrecks placed as circle*/
+function getDotPlotData(points) {
+	rangeYear = d3.extent(points, function(d) {return d.year;})
+	for(var i = 0; i < 195; i++){
+		var dotPointsPerYear;
+		dotPointsPerYear = points.filter(function (point){
+			return point.year == i + 1820;
+		})
+		dotPlotPoints.push(dotPointsPerYear);
+	}
+	plotInitialHorizontalDotPlotChart("#dotPlotHorizontal",dotPlotPoints);
+
+}
+
+var svg2,horizontalPlotGroup, yAxis0;
+var xScale0,yScale0;
+
+/* Generates a horizontal dot plot chart */
+function plotHorizontalDotPlotChart(element, bins, start, end) {
+	svg2.selectAll(".circle").data([]).exit().remove();
+	horizontalPlotGroup=d3.select("#svg2").append("g").attr("class", "horizontalPlot");
+	
+	for(var x=0; x<bins.length;x++){
+		for(var y=0; y<bins[x].length;y++){
+			 horizontalPlotGroup.append("circle").attr("class", "circle")
+			 .attr("id", bins[x][y].shipname)
+			 .attr("cx", xScale0(y+1))
+			 .attr("cy", yScale0(bins[x][y].year))
+			 .attr("r", 5)
+			 .attr("fill", function(d){return color(bins[x][y].cause);})
+			 .style("stroke", "black")
+			 .attr("opacity", 1)
+		}
+	}
+}
+
+/* Initial horizontal dot plot during the period of world war*/
+function plotInitialHorizontalDotPlotChart(element, bins) {
+	svg2 = d3.select(element).append("svg")
+				.attr("id", "svg2")
+				.attr("height", dotPlotHorizontalHeight)
+				.attr("width", width);
+	
+	xScale0 = d3.scale.linear().domain([0, 70]).range([padding, width-padding]);
+	
+	yScale0 = d3.scale.linear().domain([1940,1946]).range([0, dotPlotHorizontalHeight]);
+	
+	yAxis0 = d3.svg.axis().scale(yScale0).orient("left").tickFormat(d3.format("d")).ticks(5);
+	
+	horizontalPlotGroup=d3.select("#svg2").append("g").attr("class", "horizontalPlot");
+	
+	for(var x=0; x<bins.length;x++){
+		for(var y=0; y<bins[x].length;y++){
+			 horizontalPlotGroup.append("circle").attr("class", "circle")
+			 .attr("id", bins[x][y].shipname)
+			 .attr("cx", xScale0(y+1))
+			 .attr("cy", yScale0(bins[x][y].year))
+			 .attr("r", 5)
+			 .attr("fill", function(d){return color(bins[x][y].cause);})
+			 .style("stroke", "black")
+			 .attr("opacity", 1)
+		}
+	}
+	 svg2.append("g")
+	 .attr("class", "yaxis")
+	 .attr("transform","translate("+padding+",0)")
+	 .call(yAxis0)
+}
+
+/* A zoom function used to zoom the map */
+function zoomed() {
+	 g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+	 g.select(".country-border").style("stroke-width", .5 / d3.event.scale + "px");
+	}
+
+</script>
+</p>
+</div>
+</body>
+</html>
